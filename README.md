@@ -9,5 +9,6 @@ NTIRE2018_Outdoor_Dehaze
 
 # 2. Execution:
 Just type: python test.py.
-If you want to test other images, you only need to put your hazy images into the /Hazy directory.
-The output will be saved in the /results directory.
+
+# 3. Tips"
+If you want to test other images, you only need to put your hazy images into the /Hazy directory. The output will be saved in the /results directory.
