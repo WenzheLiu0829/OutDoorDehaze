@@ -8,7 +8,7 @@ NTIRE2018_Outdoor_Dehaze
 (3) opencv2
 
 # 2. Execution:
-Just type: python test.py.
+python test.py
 
-# 3. Tips"
+# 3. Tips:
 If you want to test other images, you only need to put your hazy images into the /Hazy directory. The output will be saved in the /results directory.
